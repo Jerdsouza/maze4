@@ -1,0 +1,4 @@
+﻿  Maze.cpp
+C:\Users\Jerome\source\repos\maze4\Maze\Maze.cpp(256,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jerome\source\repos\maze4\Maze\Maze.cpp(257,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Maze.vcxproj -> C:\Users\Jerome\source\repos\maze4\x64\Debug\Maze.exe
